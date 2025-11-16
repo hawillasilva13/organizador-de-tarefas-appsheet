@@ -4,12 +4,12 @@
 
 **Formulário de testes (Google Forms ou Planilha):** https://docs.google.com/spreadsheets/d/1ZyHcxtWHgQUWWgNvTOcifCF_7xxCP32YYt53XTpfrr4/edit?usp=sharing
 
-**Vídeo (YouTube não listado ou Drive):** <COLE AQUI>
+**Vídeo Youtube** (https://youtu.be/2llHB6hgKI4?si=T-laqdNMyCC_iR0A)
 
 ## Evidências
 - UML: ver pasta `uml/`
 - Prints do app: ver pasta `docs/`
-- Testes (PDF/Planilha): ver pasta `testes/`
+- Testes (PDF): ver pasta `testes/`
 
 ## Resumo
 App no-code (AppSheet) para Disciplinas, Tarefas e Comentários. Regras: data de entrega futura; enums de prioridade/status; comentários “Is a part of” da tarefa.
